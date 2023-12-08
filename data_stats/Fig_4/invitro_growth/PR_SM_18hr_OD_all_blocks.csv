@@ -1,0 +1,116 @@
+block,bacteria,media,sugar,CAS,OD600_18hrs
+A,Providencia,CAS,0% Sugar,1% CAS,0.3285
+A,Providencia,CAS,0% Sugar,1% CAS,0.3358
+A,Providencia,CAS,0% Sugar,1% CAS,0.3431
+B,Providencia,CAS,0% Sugar,1% CAS,0.2785
+B,Providencia,CAS,0% Sugar,1% CAS,0.2916
+B,Providencia,CAS,0% Sugar,1% CAS,0.2874
+A,Providencia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3194
+A,Providencia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3223
+A,Providencia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3306
+B,Providencia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3048
+B,Providencia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3028
+B,Providencia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.2963
+A,Providencia,Sucrose 1%,1% Sucrose,0% CAS,0.1348
+A,Providencia,Sucrose 1%,1% Sucrose,0% CAS,0.1352
+A,Providencia,Sucrose 1%,1% Sucrose,0% CAS,0.1449
+B,Providencia,Sucrose 1%,1% Sucrose,0% CAS,0.147
+B,Providencia,Sucrose 1%,1% Sucrose,0% CAS,0.1381
+B,Providencia,Sucrose 1%,1% Sucrose,0% CAS,0.1412
+A,Providencia,M9,0% Sugar,0% CAS,0.1258
+A,Providencia,M9,0% Sugar,0% CAS,0.1184
+A,Providencia,M9,0% Sugar,0% CAS,0.1301
+B,Providencia,M9,0% Sugar,0% CAS,0.1206
+B,Providencia,M9,0% Sugar,0% CAS,0.119
+B,Providencia,M9,0% Sugar,0% CAS,0.1168
+A,Providencia,Glucose 1%,1% Glucose,0% CAS,0.1635
+A,Providencia,Glucose 1%,1% Glucose,0% CAS,0.1564
+A,Providencia,Glucose 1%,1% Glucose,0% CAS,0.1561
+B,Providencia,Glucose 1%,1% Glucose,0% CAS,0.158
+B,Providencia,Glucose 1%,1% Glucose,0% CAS,0.1605
+B,Providencia,Glucose 1%,1% Glucose,0% CAS,0.1673
+A,Providencia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3135
+A,Providencia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3115
+A,Providencia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3187
+B,Providencia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3075
+B,Providencia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3144
+B,Providencia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3116
+C,Serratia,CAS,0% Sugar,1% CAS,0.2621
+C,Serratia,CAS,0% Sugar,1% CAS,0.2631
+C,Serratia,CAS,0% Sugar,1% CAS,0.3138
+C,Serratia,CAS,0% Sugar,1% CAS,0.2743
+C,Serratia,CAS,0% Sugar,1% CAS,0.2721
+C,Serratia,CAS,0% Sugar,1% CAS,0.281
+C,Serratia,CAS,0% Sugar,1% CAS,0.2788
+A,Serratia,CAS,0% Sugar,1% CAS,0.3058
+B,Serratia,CAS,0% Sugar,1% CAS,0.2841
+B,Serratia,CAS,0% Sugar,1% CAS,0.2659
+B,Serratia,CAS,0% Sugar,1% CAS,0.2651
+C,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.2672
+C,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.2652
+C,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.2612
+C,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.2098
+C,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3393
+C,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3354
+C,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3145
+A,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3116
+A,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.2959
+A,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.2964
+B,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3804
+B,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.388
+B,Serratia,Sucrose 1% + CAS,1% Sucrose,1% CAS,0.3904
+C,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1576
+C,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1664
+C,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1593
+C,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1587
+C,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1573
+C,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1613
+C,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1567
+C,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1563
+A,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1775
+A,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1773
+A,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1705
+B,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1603
+B,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1637
+B,Serratia,Sucrose 1%,1% Sucrose,0% CAS,0.1629
+C,Serratia,M9,0% Sugar,0% CAS,0.1307
+C,Serratia,M9,0% Sugar,0% CAS,0.137
+C,Serratia,M9,0% Sugar,0% CAS,0.1348
+C,Serratia,M9,0% Sugar,0% CAS,0.1339
+C,Serratia,M9,0% Sugar,0% CAS,0.1389
+C,Serratia,M9,0% Sugar,0% CAS,0.1432
+C,Serratia,M9,0% Sugar,0% CAS,0.1398
+C,Serratia,M9,0% Sugar,0% CAS,0.1387
+A,Serratia,M9,0% Sugar,0% CAS,0.1225
+A,Serratia,M9,0% Sugar,0% CAS,0.1233
+A,Serratia,M9,0% Sugar,0% CAS,0.1236
+B,Serratia,M9,0% Sugar,0% CAS,0.1297
+B,Serratia,M9,0% Sugar,0% CAS,0.1344
+B,Serratia,M9,0% Sugar,0% CAS,0.1214
+C,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1483
+C,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1553
+C,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1573
+C,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1559
+C,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1527
+C,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1594
+C,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1565
+C,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1532
+A,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1753
+A,Serratia,Glucose 1%,1% Glucose,0% CAS,0.183
+A,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1948
+B,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1627
+B,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1556
+B,Serratia,Glucose 1%,1% Glucose,0% CAS,0.1528
+B ,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3277
+B ,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.336
+B ,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3352
+A,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.333
+A,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3318
+A,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3327
+C,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3677
+C,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3666
+C,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3086
+C,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.2148
+C,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3526
+C,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.3338
+C,Serratia,Glucose 1% + CAS,1% Glucose,1% CAS,0.2903
